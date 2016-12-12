@@ -1,0 +1,14 @@
+<resources>
+    <string name = "app_name">Morning Assistant</string>
+    <string name = "Alarm_set">Set Alarm:</string>
+    <string name = "off">Turn off alarm</string>
+    <string name = "set">Set Alarm</string>
+    <string name = "message">Alarm will turn off once you have gotten out of bed and
+        taken at least 10 steps.</string>
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+</resources>
+

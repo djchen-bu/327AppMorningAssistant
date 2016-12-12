@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_cf6585b1921dad2c60e53c85e5f8fdc5f6d69bb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_345f1609839a17fb6445801742ce41279fe1b15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_7ab0bacc4c2000fc265d52f94aa559bb27feb00a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5e0704681d8e938e2f192f79d950bded41284205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_43b6637fe57490e9168a6fb70488344abc79c64c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_6bc563b9ca6b68a1d5327debc209fc9da9c19240/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_8f9937a4ebe9c8d7b749cc0640b0c3a162c441db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_73d081185008cb6aa50665df5729d30a5273aa4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_dbd5adf1cf45fdb9809a3db058a5c89119ac15c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_a7db83945086823e7bf03589ce135e2d13e3f3e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_f257ca06b61c3ce64ec5a9ff73db1cb7c0dde8bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_7d8ae4f5912b71178e5af66366583b8e563eb0d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_ab1b504bc553d5969da6be325657344a68c47ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0a74f35c0c68f338ab88ab4ac280e2091c6cfbce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b7e1c86c3771e0335bbf340563df60924208848c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_92e6d64a027fc52b5fe6e0d9f8980a560f89d02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_fdaa7a15010c76f276ca2709b87e9feb90e6706b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andrewstoycos/Documents/MorningAssistantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_fb96b030017762fac1de7c2b45fa2d96077657b9/classes.dex" />
+    </item>
+
+</items>
